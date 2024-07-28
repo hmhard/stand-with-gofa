@@ -27,3 +27,5 @@ please send me a pull request.
 I can do things you cannot, you can do things I cannot; together we can do great things.
 ```
   > Mother teresa
+
+### If you can't help them by any means, please star this repo.
